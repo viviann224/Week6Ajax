@@ -21,14 +21,13 @@ GifTastic was created to showcase the use of API, jQuery, JavaScript, CSS, and H
 - Perfered viewing in English language :us:
 
 **HOW TO PLAY**:
-To start the game, the user will click on the start button. There will be a series of 10 questions.
+To start the game, the user will either choose from the autopopulated buttons or create a button via the user input search option.
 
-For every question there is 5 seconds to answer a question. If the user clicks the correct answer, the user get a point for being correct and will move on to the next question. If the user clicks the wrong answer, the user gets a point for being incorrect and goes to the next question. If there is no response within the 5 seconds, the user will gain a point for not responding.
+Once the user clicks on the button with the corresponding search input and array of gif images based on the input search or the name of the button.
 
-When all 10 questions are answered a review page will appear and asks if the user wants to play again.
+Each gif image with contain a rating and image displayed as a freeze frame.
 
-
-
+When the user clicks on the gif for the first time, the image becomes "animated"/ goes to the first frame, the next click proceeding on the same gif will "stop" the image.
 
 **BUILT WITH**:
 - Sublime Text
