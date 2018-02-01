@@ -27,7 +27,7 @@ Once the user clicks on the button with the corresponding search input and array
 
 Each gif image with contain a rating and image displayed as a freeze frame.
 
-When the user clicks on the gif for the first time, the image becomes "animated"/ goes to the first frame, the next click proceeding on the same gif will "stop" the image.
+When the user clicks on the gif for the first time, the image becomes "animated", the next click proceeding on the same gif will "stop" / goes to the first frame the image.
 
 **BUILT WITH**:
 - Sublime Text
