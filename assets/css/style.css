@@ -4,13 +4,12 @@ body
 	font-family: 'Six Caps', sans-serif;
 	letter-spacing: 3px;
 	font-size: 20px;
-	text-shadow: 2px 2px 4px #252724;
-	
+	text-shadow: 2px 2px 4px #252724;	
 }
 
 h1
 {
-	color:#9ba2b2;
+	color:#6a7183;
 	font-family: arial;
 	font-size: 24px;
     text-shadow: 2px 2px 4px #a0a7ba;
@@ -34,7 +33,6 @@ img
 	border-style: solid;
 	border-color: black;
 	border-width: 1px;
-
 }
 
 .container
@@ -53,30 +51,23 @@ img
 
 p
 {
-
 	width:90%;
 	text-align: center;
 }
+
 /*main gifphy container*/
 #giphys
 {
-	
 	text-align: center;
-	width:100%;
+	width:90%;
 	padding-right: 10%;
 	padding-left: 5%;
-
-
 }
 /*each independent div*/
 .giphys
 {
-
 	float:left;
 	margin:5px;
-	
-
-
 }
 
 /*user input*/
@@ -85,12 +76,10 @@ p
 	border-style: solid;
 	border-color: black;
 	border-width: 1px;
-	
 	background-color: #94a8aa;
 	padding:5px;
-
-
 }
+
 /*user interaction add button*/
 #add-gif
 {
@@ -99,5 +88,4 @@ p
 	border-width: 1px;
 	margin:5px;
 	background-color: #94a8aa;
-
 }
