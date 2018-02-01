@@ -30,7 +30,7 @@ button
 img
 {
 	margin:5px;
-	width:200px;
+	height:200px;
 	border-style: solid;
 	border-color: black;
 	border-width: 1px;
@@ -71,6 +71,7 @@ p
 /*each independent div*/
 .giphys
 {
+
 	float:left;
 	margin:5px;
 	

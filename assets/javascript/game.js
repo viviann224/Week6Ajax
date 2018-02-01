@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
 //first static array of animals /dogs
-var animals= ["English Bulldog", "Pug","Boston Terrier","Corgi", "French Bulldog", "Shar Pei", "Mastiff", "Dachshund", "Boo", "Bull Terrier" ];
+var animals= ["English Bulldog", "Pug","Boston Terrier","Corgi", "French Bulldog", "Shar Pei", "Mastiff", "Dachshund", "Boo the Pomeranian", "Bull Terrier" ];
 
 //creates an indivial button for each animal/ element in the array
 function makeButton()
