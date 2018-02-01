@@ -10,7 +10,7 @@ If the program is not running automatically, please make sure you have all the p
  
  Once the user creates a button based on search description and the user clicks on the button gif images based on the search autopopulates.
  
-GifTastic was created to showcase the use of API, jQuery, JavaScript, CSS, and HTML skills to provide a  quiz game for the user to enjoy dynamic visual interaction when played.
+GifTastic was created to showcase the use of API, jQuery, JavaScript, CSS, and HTML skills to provide an image gallery for the user to enjoy dynamic visual interaction when clicked.
 
 **PREREQUISITES**:
 - Google Chrome Internet Browser
@@ -21,7 +21,7 @@ GifTastic was created to showcase the use of API, jQuery, JavaScript, CSS, and H
 - Perfered viewing in English language :us:
 
 **HOW TO PLAY**:
-To start the game, the user will either choose from the autopopulated buttons or create a button via the user input search option.
+To play, the user will either choose from the autopopulated buttons or create a button via the user input search option.
 
 Once the user clicks on the button with the corresponding search input and array of gif images based on the input search or the name of the button.
 
